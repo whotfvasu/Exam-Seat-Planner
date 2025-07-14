@@ -327,27 +327,6 @@ seat-planner/
 4. Push to the branch: `git push origin feature-amazing-feature`
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Educational institutions for providing real-world requirements
-- Open source community for excellent libraries and tools
-- Beta testers for valuable feedback and suggestions
-
-## 📞 Support
-
-For support, email support@seatplanner.com or create an issue in this repository.
 
 ---
 
-<div align="center">
-  <p>Made with ❤️ for educational excellence</p>
-  <p>⭐ Star this repo if you find it helpful!</p>
-  
-  [![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/seat-planner.svg)](https://github.com/YOUR_USERNAME/seat-planner/stargazers)
-  [![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/seat-planner.svg)](https://github.com/YOUR_USERNAME/seat-planner/issues)
-  [![GitHub license](https://img.shields.io/github/license/YOUR_USERNAME/seat-planner.svg)](https://github.com/YOUR_USERNAME/seat-planner/blob/main/LICENSE)
-</div>
